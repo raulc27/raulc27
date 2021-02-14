@@ -6,7 +6,7 @@
 - Frontend: ES6-10 :heavy_check_mark: ReactJS :heavy_check_mark:  Vanilla :heavy_check_mark: Angular :heavy_check_mark:
 
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
