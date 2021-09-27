@@ -1,6 +1,6 @@
 ### Olá, este é meu github... 👋
 
-*** fluent in english: Write, Read and "Talk" (Conversation...) <br/>
+*** fluent in english: Write, Read and Conversation <br/>
 ** Atualmente busco desafios usando: 
 Javascript/TypeScript :heavy_check_mark: 
 Python :heavy_check_mark: 
