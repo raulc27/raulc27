@@ -1,6 +1,5 @@
 ### Hi! I am Raul Castro, a software developer with cloud engineering skills 👋
 
-*** fluent in english: Write, Read and Conversation <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulc27&label=Profile%20views&color=0e75b6&style=flat" alt="raulc27" /> </p>
 
