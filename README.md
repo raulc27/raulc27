@@ -1,7 +1,5 @@
 ### Hi! I am Raul Castro, a software developer with cloud engineering skills 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulc27" alt="raulc27" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raulc27" target="blank"><img src="https://img.shields.io/twitter/follow/raulc27?logo=twitter&style=for-the-badge" alt="raulc27" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulc27&label=Profile%20views&color=0e75b6&style=flat" alt="raulc27" /> </p>
