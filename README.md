@@ -2,7 +2,6 @@
 
 *** fluent in english: Write, Read and Conversation <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -15,5 +14,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/raulc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raulc" /></a></p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raulc27" height="30" width="40" /></a>
+<a href="https://twitter.com/raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raulc27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raulc27" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/raulcastro_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raulcastro_27" height="30" width="40" /></a>
+<a href="https://fb.com/raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raulc27" height="30" width="40" /></a>
+<a href="https://instagram.com/raulcastr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raulcastr" height="30" width="40" /></a>
+<a href="https://medium.com/@raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raulc27" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/raulc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raulc27" height="30" width="40" /></a>
+</p>
 
