@@ -1,4 +1,4 @@
-### Olá, este é meu github... 👋
+### Hi! I am Raul Castro, a software developer with cloud engineering skills 👋
 
 *** fluent in english: Write, Read and Conversation <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
