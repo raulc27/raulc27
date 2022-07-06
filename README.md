@@ -1,6 +1,6 @@
 ### Hi! I am Raul Castro, a software developer with cloud engineering skills 👋
 
-<table border="0">
+<table border="0px">
   <tr>
     <td><p align="left"> <img src="https://komarev.com/ghpvc/?username=raulc27&label=Profile%20views&color=0e75b6&style=flat" alt="raulc27" /> </p>
 </td>
