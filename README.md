@@ -6,11 +6,11 @@
       <img src="https://komarev.com/ghpvc/?username=raulc27&label=Profile%20views&color=0e75b6&style=flat" alt="raulc27" />
     </td>
     <td>
-      <a href="https://app.daily.dev/raulc27"><img src="https://api.daily.dev/devcards/b15eeab4a07c47599a6d45f120b40f43.png?r=rnu" width="400" alt="Raul Castro's Dev Card"/></a>
+      <p align="left"> <a href="https://twitter.com/raulc27" target="blank"><img src="https://img.shields.io/twitter/follow/raulc27?logo=twitter&style=for-the-badge" alt="raulc27" /></a> </p>
     </td>
   </tr>
-
-<p align="left"> <a href="https://twitter.com/raulc27" target="blank"><img src="https://img.shields.io/twitter/follow/raulc27?logo=twitter&style=for-the-badge" alt="raulc27" /></a> </p>
+  </table>
+  <a href="https://app.daily.dev/raulc27"><img src="https://api.daily.dev/devcards/b15eeab4a07c47599a6d45f120b40f43.png?r=rnu" width="400" alt="Raul Castro's Dev Card"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
