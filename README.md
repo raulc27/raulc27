@@ -1,4 +1,4 @@
-### Hi! I am Raul Castro, a software developer with cloud engineering skills 👋
+### Hi! I am a software developer with cloud engineering skills 👋
 
 <table>
   <tr>
