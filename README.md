@@ -1,6 +1,6 @@
 ### Hi! I am a software developer with cloud engineering skills 👋
 
-<table width="100%" border="0px">
+<table width="100%" border="0">
 <tr>
 <td>
 
