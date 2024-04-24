@@ -25,7 +25,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raulc27&theme=dracula&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -44,3 +43,6 @@
     </td>
   </tr>
   </table>
+
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=raulc27&theme=dracula&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
