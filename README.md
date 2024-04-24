@@ -5,10 +5,13 @@
         <td>
             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
-    
+</td>
+<td>    
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
+</td>
+</tr>
+<tr>
+<td>    
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulc27&theme=dracula" alt="raulc27" />
         </td>
         <td>
