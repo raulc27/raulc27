@@ -11,16 +11,11 @@
   </tr>
   </table>
 
-<table>
-  <tr>
-    <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-    </td>
-    <td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulc27&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-       </td>
-  </tr>
-  </table>
+
 
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulc27&" alt="raulc27" /></p>
