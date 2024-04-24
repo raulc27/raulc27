@@ -8,6 +8,9 @@
     <td>
      <a href="https://twitter.com/raulc27" target="blank"><img src="https://img.shields.io/twitter/follow/raulc27?logo=twitter&style=for-the-badge" alt="raulc27" /></a> 
     </td>
+    <td>
+      <a href="https://www.buymeacoffee.com/raulc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raulc" /></a>
+    </td>
   </tr>
   </table>
 
@@ -22,7 +25,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raulc27&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><a href="https://www.buymeacoffee.com/raulc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raulc" /></a></p>
 
   <a href="https://app.daily.dev/raulc27"><img src="https://api.daily.dev/devcards/b15eeab4a07c47599a6d45f120b40f43.png?r=rnu" width="400" alt="Raul Castro's Dev Card"/></a>
 
