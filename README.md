@@ -8,7 +8,7 @@
     
 [![Raul Castro's github stats](https://github-readme-stats.vercel.app/api?username=raulc27&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulc27&theme=dracula" alt="raulc27" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulc27&theme=dracula" alt="raulc27" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raulc27&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
